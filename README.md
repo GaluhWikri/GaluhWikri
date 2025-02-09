@@ -1,4 +1,4 @@
-# Hi, I’m Galuh wikri 👋🏻
+# Hi, I’m Galuh Wikri 👋🏻
 ### Enthusiastic about programming and software development. Expert "Google Searcher" and "Copy Paster" 🚀
 ### Feel free to explore my repositories. Let's navigate the digital world together with the spirit of "Ctrl+C" and "Ctrl+V"! 💻
 <br>
