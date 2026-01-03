@@ -20,9 +20,6 @@
   <a href="https://galuhwikri.my.id/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
-
-  <br><br>
-
   <img src="https://github.com/GaluhWikri/GaluhWikri/blob/output/github-snake-dark.svg" alt="snake gif" width="100%"/>
 
 </div>
